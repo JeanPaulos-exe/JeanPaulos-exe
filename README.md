@@ -23,11 +23,11 @@ Minha paixão por tecnologia me impulsiona a aprender novas ferramentas e lingua
 - 🎮 Apaixonado pela Nintendo.
 - 📚 Gosto de ler, desde livros técnicos até quadrinhos.
 - 🚀 Sempre em busca de novos conhecimentos em tecnologia.
-
+<br>
 <div>
 <a href="https://github.com/JeanPaulos-exe">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPaulos-exe&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanPaulos-exe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+<br>
 Obrigado por visitar meu perfil!
